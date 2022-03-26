@@ -1,0 +1,40 @@
+{
+  "responsive-preview": {
+    "iPhone5": [
+      320,
+      568
+    ],
+    "iPhone8": [
+      375,
+      667
+    ],
+    "iPhone8Plus": [
+      414,
+      736
+    ],
+    "iPhoneX": [
+      375,
+      812
+    ],
+    "GalaxyTab": [
+      600,
+      800
+    ],
+    "iPad": [
+      764,
+      1028
+    ],
+    "iPadPro": [
+      1024,
+      1366
+    ],
+    "Desktop": [
+      1400,
+      800
+    ],
+    "Desktop  HD": [
+      1920,
+      1080
+    ]
+  }
+}
